@@ -18,6 +18,7 @@ int divide(int arr[], int low, int high) {
     return i+1 ; 
 }
 
+
 void quickSort(int arr[], int low, int high) {
 
     if(low >= high) return ; 
@@ -43,3 +44,4 @@ int main() {
 
     return 0 ; 
 }
+
