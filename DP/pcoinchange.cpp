@@ -18,6 +18,6 @@ int main() {
             }
         }
     }
-
     cout << dp[amount] ; 
+    return 0
 }
