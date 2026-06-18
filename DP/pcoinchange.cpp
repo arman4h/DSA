@@ -19,5 +19,5 @@ int main() {
         }
     }
     cout << dp[amount] ; 
-    return 0
+    return 0 ;
 }
